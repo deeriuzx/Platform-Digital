@@ -1,0 +1,5 @@
+**Database Name: ecommerceapp**
+
+Email:    name@gmail.com
+Password: cekidot123
+
